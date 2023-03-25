@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e815d791-1660-43b2-90fc-4a8fef66df7b": {
+      "ProjectGuid": "e815d791-1660-43b2-90fc-4a8fef66df7b",
+      "DisplayName": "KSPExam",
+      "ColorIndex": 0
+    },
+    "29727159-0e3a-414c-90a4-c1cf00b5b1f7": {
+      "ProjectGuid": "29727159-0e3a-414c-90a4-c1cf00b5b1f7",
+      "DisplayName": "WebMVCKsp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
